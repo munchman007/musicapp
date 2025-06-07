@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.9.0] /Users/user/.gradle/caches/8.12/transforms/96899116ada09d3f659ae0f33c977a2f/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/user/.gradle/caches/8.12/transforms/709d81b14d918bca3cef8221d6455f85/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/user/.gradle/caches/8.12/transforms/c31c01c52b934952369b0ba68a8c67ce/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -45,6 +45,7 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/user/.gradle/cache
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/user/.gradle/caches/8.12/transforms/2bf68ceb0690038c9ac2d498fd759ad3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/user/.gradle/caches/8.12/transforms/8e6bd6ac544cc9301eda823daf479af0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml
@@ -53,8 +54,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/user/.gradle/caches/8.12/transfo
 	xmlns:android
 		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:4:5-22:19
-INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:4:5-22:19
+ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.google.android.material:material:1.9.0] /Users/user/.gradle/caches/8.12/transforms/96899116ada09d3f659ae0f33c977a2f/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] /Users/user/.gradle/caches/8.12/transforms/96899116ada09d3f659ae0f33c977a2f/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/user/.gradle/caches/8.12/transforms/709d81b14d918bca3cef8221d6455f85/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -74,23 +75,23 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/user/.gradle/caches/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] /Users/user/.gradle/caches/8.12/transforms/bdd853a537c37f7fa4fc73854565a08c/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:6:9-39
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:7:9-39
 	android:roundIcon
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:11:9-54
 activity#com.example.musicaptitude.MainActivity
-ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:exported
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:13:13-36
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
@@ -101,6 +102,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
 		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.musicaptitude.TestActivity
+ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:21:19-47
+activity#com.example.musicaptitude.SummaryActivity
+ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml:22:19-50
 uses-sdk
 INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/user/Downloads/MusicAptitudeApp/app/src/main/AndroidManifest.xml

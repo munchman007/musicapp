@@ -3444,6 +3444,7 @@ id src_over
 id standard
 id start
 id startHorizontal
+id startTestButton
 id startToEnd
 id startVertical
 id staticLayout
@@ -3487,6 +3488,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleText
 id title_template
 id toggle
 id top
@@ -3640,6 +3642,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_summary
+layout activity_test
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3721,8 +3724,6 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
-raw m1m02p
-raw m1t01p
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

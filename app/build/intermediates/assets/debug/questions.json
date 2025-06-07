@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "type": "MELODY",
+    "audioFile": "m1m02p.mp3",
+    "questionText": "Is the second melody the same as the first?",
+    "options": ["Same", "Different"],
+    "followUpOptions": ["1", "2", "3", "4", "5"],
+    "correctAnswer": "Different",
+    "correctFollowUp": "3"
+  },
+  {
+    "id": 2,
+    "type": "TEXTURE",
+    "audioFile": "m1t01p.mp3",
+    "questionText": "Listen to the audio and decide if the chord has 2, 3, or 4 notes.",
+    "options": ["2", "3", "4"],
+    "followUpOptions": null,
+    "correctAnswer": "2"
+  }
+]
